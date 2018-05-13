@@ -1,0 +1,36 @@
+/*Quote Box*/
+* {
+	font-family: 'Pangolin', cursive;
+}
+body {
+	/*height: auto;*/
+	background-color: #F59D9D;
+	color: #F59D9D;
+}
+
+.blockquote {
+	margin-top: 5px;
+	border-left: 5px solid #F59D9D;
+}
+
+.box-quote {
+	margin-top: 15%;
+	background-color: #FFFFF9;
+	border-radius: 10px;
+	max-width: 50%;
+	height: auto;
+}
+
+.btn-custom:hover {
+	background-color: #F59D9D;
+	color: #FFF;
+}
+
+/*Helper*/
+.btn-custom {
+	color: #FFF;
+	background-color: #F59D9D;
+}
+.div-btn {
+	margin: 10px 0  10px 0;
+}
